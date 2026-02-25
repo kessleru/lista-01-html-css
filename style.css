@@ -56,8 +56,12 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-size: 16px;
+  font-size: 22px;
   margin-bottom: 4rem;
+}
+
+nav {
+  font-size: 14px;
 }
 
 ul {
@@ -66,19 +70,8 @@ ul {
   gap: 16px;
 }
 
-.maior {
+.verde {
   color: #a6d189;
-}
-.tio {
-  color: #a6d189;
-}
-.tio:hover {
-  color: #c6d0f5;
-  cursor: pointer;
-}
-
-.espacador {
-  margin-left: 4px;
 }
 
 a {
@@ -137,5 +130,9 @@ h3 {
 @media (max-width: 800px) {
   .grid {
     grid-template-columns: 1fr;
+  }
+  header {
+    flex-direction: column;
+    gap: 1rem;
   }
 }
