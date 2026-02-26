@@ -22,7 +22,7 @@ body {
 }
 
 .header > h1 {
-  font-size: 30px;
+  font-size: 28px;
 }
 
 .social {
@@ -31,7 +31,7 @@ body {
   gap: 16px;
 }
 
-a > p:hover {
+.social a:hover {
   color: #a6d189;
   text-decoration: underline dashed #a6d189 2px;
   text-underline-offset: 6px;
@@ -50,6 +50,11 @@ a > p:hover {
   font-size: 24px;
 }
 
+#posts-text {
+  margin-bottom: 1rem;
+  color: #a5adce;
+}
+
 .card {
   display: flex;
   flex-direction: column;
@@ -58,7 +63,9 @@ a > p:hover {
   border-radius: 12px;
   border: 2px solid #292c3c;
   box-shadow: 0 4px 2px -1px rgb(0 0 0 / 7%);
+  width: 100%;
   padding: 1rem 2rem;
+  margin: 0.25rem 0;
   box-sizing: border-box;
   color: #a5adce;
 }
