@@ -86,6 +86,7 @@ body {
   box-shadow: 0 2px 2px -1px rgb(0 0 0 / 7%);
   transition: all 0.2s ease-in;
   color: #181f14;
+  font-size: 14px;
 }
 
 .btn::after {
