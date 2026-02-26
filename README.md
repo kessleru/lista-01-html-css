@@ -1,4 +1,5 @@
 # Lista 01 - Introdução a HTML e CSS
+[![Demo](https://img.shields.io/badge/🌐-Github_Pages-181717)](https://kessleru.github.io/lista-01-html-css/)
 
 ## Objetivo
 
