@@ -1,4 +1,5 @@
 # Lista 01 - Introdução a HTML e CSS
+[![Demo](https://img.shields.io/badge/🌐-Github_Pages-181717)](https://kessleru.github.io/lista-01-html-css/)
 
 ## Objetivo
 
@@ -8,29 +9,29 @@ Praticar os conceitos básicos de HTML e CSS: estrutura de página, HTML semânt
 
 ### Exercício 1 - Estrutura básica em HTML
 
-- Criação do arquivo `index.html` com estrutura HTML5 completa.
-- Definição de idioma e charset.
-- Uso de título principal e parágrafo.
+- [x] Criação do arquivo `index.html` com estrutura HTML5 completa.
+- [x] Definição de idioma e charset.
+- [x] Uso de título principal e parágrafo.
 
 ### Exercício 2 - HTML semântico
 
-- Organização do conteúdo com `header`, `nav`, `main`, `section` e `footer`.
-- Inserção de links fictícios no menu de navegação.
+- [x] Organização do conteúdo com `header`, `nav`, `main`, `section` e `footer`.
+- [x] Inserção de links fictícios no menu de navegação.
 
 ### Exercício 3 - CSS básico e seletores
 
-- Alteração da cor de fundo da página.
-- Estilização do `h1` por seletor de tag.
-- Estilização de parágrafo por classe.
-- Estilização de elemento específico por id.
+- [x] Alteração da cor de fundo da página → ![#303446](https://placehold.co/15x15/303446/303446.png)
+- [x] Estilização do `h1` por seletor de tag.
+- [x] Estilização de parágrafo por classe.
+- [x] Estilização de elemento específico por id.
 
 ### Exercício 4 - Box Model
 
-- Criação de uma `div` com classe `card`.
-- Aplicação de `width`, `padding`, `border`, `margin` e `box-sizing: border-box`.
+- [x] Criação de uma `div` com classe `card`.
+- [x] Aplicação de `width`, `padding`, `border`, `margin` e `box-sizing: border-box`.
 
 ### Exercício 5 - Organização e boas práticas
 
-- Uso de CSS externo no `style.css`.
-- Nomes de classes claros.
-- Código organizado com indentação.
+- [x] Uso de CSS externo no `./style.css`.
+- [x] Nomes de classes claros.
+- [x] Código organizado com indentação.
