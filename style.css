@@ -1,7 +1,7 @@
 body {
   background-color: #303446;
   color: #c6d0f5;
-  font-family: 'JetBrains Mono', system-ui, sans-serif;
+  font-family: "JetBrains Mono", system-ui, sans-serif;
 }
 
 .decorator {
@@ -90,7 +90,7 @@ body {
 }
 
 .btn::after {
-  content: ' ➜';
+  content: " ➜";
   margin-left: 8px;
   font-weight: 500;
   display: inline-block;
